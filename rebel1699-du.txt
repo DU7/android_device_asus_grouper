@@ -1,1 +1,1 @@
-DEvice tree ported for Dirty Unicorns MM
+Device tree ported for Dirty Unicorns MM
